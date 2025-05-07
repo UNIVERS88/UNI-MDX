@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------NETHUM OFC #--------------------------------------
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "ඔයාගේ session id එක දාන්න",
+    SESSION_ID: process.env.SESSION_ID || "NIMA-MD&sfMEhAwa#OQk7Bn6nIMTp0l70jGOsgLWWKkRsVAKdL0EPLVh0-DE",
     CAPTION: process.env.CAPTION || "*©  Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ ᴍʀ ɴᴇᴛʜᴜ ᴏꜰᴄ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
